@@ -1,0 +1,135 @@
+INFO: 2021/07/21 18:06:47 main.go:37: Server is up on port :4000
+INFO: 2021/07/21 18:10:15 main.go:50: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 18:10:15 main.go:40: http: Server closed
+ERROR: 2021/07/21 18:10:15 main.go:41: Error starting server on port:4000
+INFO: 2021/07/21 18:11:58 main.go:37: Server is up on port :4000
+INFO: 2021/07/21 21:38:49 main.go:50: Received terminate, graceful shutdown! Signal:  interrupt
+INFO: 2021/07/21 21:39:52 main.go:37: Server is up on port :4000
+INFO: 2021/07/21 22:02:35 main.go:50: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 22:02:35 main.go:40: http: Server closed
+ERROR: 2021/07/21 22:02:35 main.go:41: Error starting server on port:4000
+INFO: 2021/07/21 22:02:42 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 22:07:21 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 22:07:21 main.go:42: http: Server closed
+ERROR: 2021/07/21 22:07:21 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 22:07:27 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 22:14:05 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 22:14:05 main.go:42: http: Server closed
+ERROR: 2021/07/21 22:14:05 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 22:14:14 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 22:15:50 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 22:15:50 main.go:42: http: Server closed
+ERROR: 2021/07/21 22:15:50 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 22:15:58 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 22:38:15 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 22:38:15 main.go:42: http: Server closed
+ERROR: 2021/07/21 22:38:15 main.go:43: Error starting server on port:4000
+ERROR: 2021/07/21 22:38:23 utils.go:15: No .env file found
+INFO: 2021/07/21 22:38:23 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 23:11:18 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 23:11:18 main.go:42: http: Server closed
+INFO: 2021/07/21 23:11:25 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 23:12:15 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 23:12:15 main.go:42: http: Server closed
+ERROR: 2021/07/21 23:12:15 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 23:12:23 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 23:13:58 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 23:13:58 main.go:42: http: Server closed
+ERROR: 2021/07/21 23:13:58 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 23:14:06 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 23:20:11 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 23:20:11 main.go:42: http: Server closed
+ERROR: 2021/07/21 23:20:11 main.go:43: Error starting server on port:4000
+INFO: 2021/07/21 23:20:49 main.go:39: Server is up on port :4000
+INFO: 2021/07/21 23:27:02 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/21 23:27:02 main.go:42: http: Server closed
+ERROR: 2021/07/21 23:27:02 main.go:43: Error starting server on port:4000
+ERROR: 2021/07/21 23:27:08 utils.go:15: No .env file found
+INFO: 2021/07/21 23:27:08 main.go:39: Server is up on port :4000
+INFO: 2021/07/22 00:10:25 main.go:52: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 00:10:25 main.go:42: http: Server closed
+ERROR: 2021/07/22 00:10:25 main.go:43: Error starting server on port:4000
+ERROR: 2021/07/22 00:10:34 utils.go:15: No .env file found
+INFO: 2021/07/22 00:10:34 main.go:40: Server is up on port :4000
+INFO: 2021/07/22 00:40:54 main.go:53: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 00:41:02 utils.go:15: No .env file found
+INFO: 2021/07/22 00:41:02 main.go:41: Server is up on port :4000
+2021/07/22 00:41:20 http: superfluous response.WriteHeader call from github.com/Ghvstcode/RC/utils.Data.Send (utils.go:29)
+INFO: 2021/07/22 00:43:03 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 00:43:03 main.go:44: http: Server closed
+ERROR: 2021/07/22 00:43:03 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 00:43:09 utils.go:15: No .env file found
+INFO: 2021/07/22 00:43:09 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 01:07:06 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 01:07:06 main.go:44: http: Server closed
+ERROR: 2021/07/22 01:07:06 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 03:44:58 utils.go:15: No .env file found
+INFO: 2021/07/22 03:44:58 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 03:47:55 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 03:47:55 main.go:44: http: Server closed
+ERROR: 2021/07/22 03:47:55 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 03:48:23 utils.go:15: No .env file found
+INFO: 2021/07/22 03:48:23 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:22:07 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:22:13 utils.go:15: No .env file found
+INFO: 2021/07/22 04:22:13 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:23:58 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:23:58 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:23:58 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:24:06 utils.go:15: No .env file found
+INFO: 2021/07/22 04:24:06 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:25:04 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:25:04 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:25:04 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:26:12 utils.go:15: No .env file found
+INFO: 2021/07/22 04:26:12 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:27:17 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:27:26 utils.go:15: No .env file found
+INFO: 2021/07/22 04:27:26 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:28:30 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:28:30 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:28:30 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:28:46 utils.go:15: No .env file found
+INFO: 2021/07/22 04:28:46 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:32:10 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:32:10 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:32:10 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:32:16 utils.go:15: No .env file found
+INFO: 2021/07/22 04:32:16 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:37:11 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:41:12 utils.go:15: No .env file found
+INFO: 2021/07/22 04:41:12 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:42:36 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:42:36 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:42:36 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:42:42 utils.go:15: No .env file found
+INFO: 2021/07/22 04:42:42 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:56:20 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:56:20 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:56:20 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:56:27 utils.go:15: No .env file found
+INFO: 2021/07/22 04:56:27 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 04:57:34 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 04:57:34 main.go:44: http: Server closed
+ERROR: 2021/07/22 04:57:34 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 04:57:40 utils.go:15: No .env file found
+INFO: 2021/07/22 04:57:40 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 06:37:21 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 06:38:21 utils.go:15: No .env file found
+INFO: 2021/07/22 06:38:21 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 06:44:08 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 06:44:08 main.go:44: http: Server closed
+ERROR: 2021/07/22 06:44:08 main.go:45: Error starting server on port:4000
+ERROR: 2021/07/22 06:44:41 utils.go:15: No .env file found
+INFO: 2021/07/22 06:44:41 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 12:32:29 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 12:32:29 main.go:44: http: Server closed
+ERROR: 2021/07/22 12:32:39 utils.go:15: No .env file found
+INFO: 2021/07/22 12:32:39 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 12:45:42 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 12:45:42 main.go:44: http: Server closed
+ERROR: 2021/07/22 12:45:55 utils.go:15: No .env file found
+INFO: 2021/07/22 12:45:55 main.go:41: Server is up on port :4000
+INFO: 2021/07/22 13:20:27 main.go:54: Received terminate, graceful shutdown! Signal:  interrupt
+ERROR: 2021/07/22 13:20:27 main.go:44: http: Server closed
+ERROR: 2021/07/22 13:20:27 main.go:45: Error starting server on port:4000
